@@ -1,0 +1,11 @@
+com\vickee\restapp\model\MobileShop.class
+com\vickee\restapp\serviceimpl\RepairRequestServiceImpl.class
+com\vickee\restapp\MobileRepairManagementApplication.class
+com\vickee\restapp\serviceimpl\MobileShopServiceImpl.class
+com\vickee\restapp\model\RepairRequest.class
+com\vickee\restapp\service\MobileShopService.class
+com\vickee\restapp\repository\RepairRequestRepo.class
+com\vickee\restapp\service\RepairRequestService.class
+com\vickee\restapp\controller\MobileShopController.class
+com\vickee\restapp\repository\MobileShopRepo.class
+com\vickee\restapp\controller\RepairRequestController.class
